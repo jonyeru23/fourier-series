@@ -6,3 +6,4 @@ This is a way to show the fourier series in very nice and elegant
 
 Hope you enjoy it!
 
+![music note](https://user-images.githubusercontent.com/71553438/143786057-f65810a8-36c9-4a82-8046-43a24a5aee66.PNG)
